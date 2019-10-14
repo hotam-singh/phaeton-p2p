@@ -47,7 +47,7 @@
 		"enableLocalIPs": "sudo ./scripts/enableTestLocalIPs.sh 10 19"
 	},
 	"dependencies": {
-		"@phaetonhq/phaeton-cryptography": "2.3.0",
+		"phaeton-cryptography": "git+https://git@github.com/hotam-singh/phaeton-cryptography.git",
 		"lodash.shuffle": "4.2.0",
 		"semver": "5.6.0",
 		"socketcluster-client": "14.3.1",
