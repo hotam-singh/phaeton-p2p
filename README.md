@@ -1,11 +1,11 @@
-# @phaetonhq/phaeton-p2p
+# phaeton-p2p
 
-@phaetonhq/phaeton-p2p is containing unstructured P2P library for use with Phaeton-related software
+phaeton-p2p is containing unstructured P2P library for use with Phaeton-related software
 
 ## Installation
 
 ```sh
-$ npm install --save @phaetonhq/phaeton-p2p
+$ npm install --save phaeton-p2p
 ```
 
 ## License

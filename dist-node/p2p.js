@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const phaeton_cryptography_1 = require("@phaetonhq/phaeton-cryptography");
+const phaeton_cryptography_1 = require("phaeton-cryptography");
 const events_1 = require("events");
 const http = require("http");
 const shuffle = require("lodash.shuffle");

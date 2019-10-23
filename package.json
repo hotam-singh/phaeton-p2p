@@ -1,5 +1,5 @@
 {
-	"name": "@phaetonhq/phaeton-p2p",
+	"name": "phaeton-p2p",
 	"version": "0.3.5",
 	"description": "Unstructured P2P library for use with Phaeton-related software",
 	"author": "Phaeton Foundation <admin@phaeton.io>, lightcurve GmbH <admin@lightcurve.io>",
@@ -91,7 +91,5 @@
 		"wait-on": "3.2.0"
 	}
 
-,"_resolved": "https://registry.npmjs.org/@phaetonhq/phaeton-p2p/-/phaeton-p2p-0.3.5.tgz"
-,"_integrity": "sha512-qkHIM+RIe4/OdeyRGrf+PKD64dQOaW9SDSeQn9UmtP0Rw5L7a9GxPybmcp0U+GCeIrwJMWD4WEqmFUxaVc4Uyw=="
-,"_from": "@phaetonhq/phaeton-p2p@0.3.5"
+,"_from": "phaeton-p2p@0.3.5"
 }
